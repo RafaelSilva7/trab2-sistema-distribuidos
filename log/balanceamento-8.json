@@ -1,0 +1,10 @@
+{
+	"titulo": "balanceamento-8",
+	"integral": "f(x) = 5x^3 + 3x^2 + 4x + 20",
+	"limite_inferior": 0.0,
+	"limite_superior": 100.0,
+	"precisao": 0.1,
+	"resultado": 124952721.1675,
+	"tempo": 0.016,
+	"num_processos": 8
+}

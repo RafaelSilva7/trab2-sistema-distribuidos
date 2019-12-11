@@ -1,0 +1,10 @@
+{
+	"titulo": "butterfly-2",
+	"integral": "f(x) = 5x^3 + 3x^2 + 4x + 20",
+	"limite_inferior": 0.0,
+	"limite_superior": 100.0,
+	"precisao": 0.1,
+	"resultado": 126022125.50000013,
+	"tempo": 0.004,
+	"num_processos": 2
+}
